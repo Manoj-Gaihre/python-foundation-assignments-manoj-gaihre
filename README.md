@@ -15,3 +15,4 @@ The assignments focus on building a strong foundation in Python programming, inc
 ## Assignment Progress
 
 - completed assignment 1.
+- completed assignment 2.
