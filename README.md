@@ -3,7 +3,6 @@
 ## Student Information
 
 - Name: Manoj Gaihre
-- Cohort: [Your Cohort Name]
 - Track Interest: Data Science
 
 ## About This Repository
