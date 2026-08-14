@@ -1,0 +1,4 @@
+2026-08-14 17:09:59,208 - orders - INFO - Row 0: Order 1 processed successfully
+2026-08-14 17:09:59,209 - orders - ERROR - Error: invalid literal for int() with base 10: 'not_a_number'
+2026-08-14 17:09:59,209 - orders - ERROR - The row with id 2 has negative price or quantity
+2026-08-14 17:09:59,209 - orders - INFO - Row 3: Order 4 processed successfully
