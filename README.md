@@ -17,3 +17,4 @@ The assignments focus on building a strong foundation in Python programming, inc
 - completed assignment 2.
 - completed assignment 3.
 - completed assignment 4.
+- completed assignment 5.
