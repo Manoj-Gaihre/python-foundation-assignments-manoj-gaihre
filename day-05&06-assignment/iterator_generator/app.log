@@ -1,0 +1,4 @@
+INFO,alice,login
+ERROR,bob,timeout
+INFO,carol,upload
+ERROR,david,denied
