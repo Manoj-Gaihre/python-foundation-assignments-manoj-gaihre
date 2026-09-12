@@ -1,4 +1,4 @@
-# Day 7: Decorators and Properties
+# Day 6: Decorators and Properties
 
 ## Topics Covered
 
@@ -46,7 +46,7 @@ The project:
 
 ## What I Learned
 
-During Day 7, I learned how decorators can modify or extend the behavior of functions without changing the original function. I learned how wrapper functions work and how `*args` and `**kwargs` allow decorators to work with functions having different arguments.
+During Day 6, I learned how decorators can modify or extend the behavior of functions without changing the original function. I learned how wrapper functions work and how `*args` and `**kwargs` allow decorators to work with functions having different arguments.
 
 I learned how `functools.wraps` preserves the original function's metadata when using decorators. I also learned how decorator factories work, especially the three-layer structure used for decorators such as `@retry(times=3, delay=1)` and `@requires_role("admin")`.
 
