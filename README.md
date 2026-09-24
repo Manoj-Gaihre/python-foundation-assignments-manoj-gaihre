@@ -18,6 +18,9 @@ The assignments focus on building a strong foundation in Python programming, inc
 - completed assignment 3.
 - completed assignment 4.
 - completed assignment 5.
-- completed comprehension assignment.
+- completed assignment 6.
 - completed employee_SQL_Operators_Assignment
 - completed banking sql practice
+
+### Months 2
+- completed assignment 1.

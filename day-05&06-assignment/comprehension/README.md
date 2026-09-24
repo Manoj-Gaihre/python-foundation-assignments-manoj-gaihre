@@ -61,7 +61,7 @@ If the program reads from a log file, make sure `server.log` is present in the c
 
 ## What I Learned
 
-During Day 3, I learned how to use list, set, and dictionary comprehensions to write shorter and cleaner Python code. I also learned how generator expressions can process data without creating a complete list in memory.
+During Day 5, I learned how to use list, set, and dictionary comprehensions to write shorter and cleaner Python code. I also learned how generator expressions can process data without creating a complete list in memory.
 
 I practiced applying comprehensions to real-world log data by filtering errors, finding unique users, counting log levels, and identifying login failures.
 
