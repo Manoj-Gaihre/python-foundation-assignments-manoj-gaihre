@@ -24,3 +24,4 @@ The assignments focus on building a strong foundation in Python programming, inc
 
 ### Months 2
 - completed assignment 1.
+- completed assignment 2.
